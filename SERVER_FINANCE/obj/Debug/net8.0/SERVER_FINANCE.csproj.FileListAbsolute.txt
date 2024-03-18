@@ -23,3 +23,4 @@ F:\work\Ralox Finance\server\SERVER_FINANCE\obj\Debug\net8.0\refint\SERVER_FINAN
 F:\work\Ralox Finance\server\SERVER_FINANCE\obj\Debug\net8.0\SERVER_FINANCE.pdb
 F:\work\Ralox Finance\server\SERVER_FINANCE\obj\Debug\net8.0\SERVER_FINANCE.genruntimeconfig.cache
 F:\work\Ralox Finance\server\SERVER_FINANCE\obj\Debug\net8.0\ref\SERVER_FINANCE.dll
+F:\work\Ralox Finance\server\SERVER_FINANCE\obj\Debug\net8.0\SERVER_FINANCE.sourcelink.json

@@ -1,1 +1,15 @@
-GET http://localhost:5291
+GET http://localhost:5291/users
+
+
+###
+GET http://localhost:5291/users/1
+
+###
+POST http://localhost:5291/users
+Content-Type: application/json
+
+{
+    "Name":"Aquib",
+    "Username":"abc",
+    "Password":"abc"
+}
