@@ -39,4 +39,22 @@ app
 
 } );
 
+app
+.MapPut("/users/{id}",(int id, UpdateUserDto updateUser)=>{
+ var index = users.FindIndex(user=> user.Id == id);
+ users[index] = new FinanceDto(
+    id,
+    updateUser.Username,
+    updateUser.Name,
+    updateUser.Password
+ );
+ return Results.NoContent();
+});
+
+app.MapDelete("/users/{id}",(int id)=>{
+ users.RemoveAll(user=> user.Id == id);
+
+ return Results.NoContent();
+});
+
 app.Run();
