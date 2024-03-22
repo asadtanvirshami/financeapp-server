@@ -24,3 +24,9 @@ F:\work\Ralox Finance\server\SERVER_FINANCE\obj\Debug\net8.0\SERVER_FINANCE.pdb
 F:\work\Ralox Finance\server\SERVER_FINANCE\obj\Debug\net8.0\SERVER_FINANCE.genruntimeconfig.cache
 F:\work\Ralox Finance\server\SERVER_FINANCE\obj\Debug\net8.0\ref\SERVER_FINANCE.dll
 F:\work\Ralox Finance\server\SERVER_FINANCE\obj\Debug\net8.0\SERVER_FINANCE.sourcelink.json
+F:\work\Ralox Finance\server\SERVER_FINANCE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\work\Ralox Finance\server\SERVER_FINANCE\bin\Debug\net8.0\MinimalApis.Extensions.dll
+F:\work\Ralox Finance\server\SERVER_FINANCE\bin\Debug\net8.0\MiniValidation.dll
+F:\work\Ralox Finance\server\SERVER_FINANCE\obj\Debug\net8.0\SERVER_FINANCE.csproj.AssemblyReference.cache
+F:\work\Ralox Finance\server\SERVER_FINANCE\obj\Debug\net8.0\SERVER_FINANCE.MvcApplicationPartsAssemblyInfo.cs
+F:\work\Ralox Finance\server\SERVER_FINANCE\obj\Debug\net8.0\SERVER_F.555B095D.Up2Date

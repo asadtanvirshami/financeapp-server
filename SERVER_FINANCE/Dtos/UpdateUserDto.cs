@@ -1,7 +1,8 @@
-namespace SERVER_FINANCE.API.Dtos;
+namespace User.API.Dtos;
 
 public record class UpdateUserDto(
     string Name,
     string Username,
-    string Password
+    string Password,
+    decimal GPA
 );
