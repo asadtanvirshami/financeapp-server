@@ -53,7 +53,7 @@
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[9.0.0-preview.2.24128.4, )"
+              "version": "[8.0.2, )"
             },
             "MinimalApis.Extensions": {
               "target": "Package",

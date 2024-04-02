@@ -1,4 +1,4 @@
-using Microsoft.EntityFrameworkCore
+using Microsoft.EntityFrameworkCore;
 using FinanceServer.API.Entities;
 
 namespace FinanceServer.API.Data;

@@ -1,4 +1,4 @@
-namespace FinanceServer.Api.Entities;
+namespace FinanceServer.API.Entities;
 
 public class Sales
 {
