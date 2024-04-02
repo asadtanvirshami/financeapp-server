@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\work\\Ralox Finance\\server\\SERVER_FINANCE\\SERVER_FINANCE.csproj": {}
+    "F:\\work\\Ralox Finance\\server\\SERVER_FINANCE\\SERVER_FINANCE.csproj": {}
   },
   "projects": {
-    "f:\\work\\Ralox Finance\\server\\SERVER_FINANCE\\SERVER_FINANCE.csproj": {
+    "F:\\work\\Ralox Finance\\server\\SERVER_FINANCE\\SERVER_FINANCE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\work\\Ralox Finance\\server\\SERVER_FINANCE\\SERVER_FINANCE.csproj",
+        "projectUniqueName": "F:\\work\\Ralox Finance\\server\\SERVER_FINANCE\\SERVER_FINANCE.csproj",
         "projectName": "SERVER_FINANCE",
-        "projectPath": "f:\\work\\Ralox Finance\\server\\SERVER_FINANCE\\SERVER_FINANCE.csproj",
+        "projectPath": "F:\\work\\Ralox Finance\\server\\SERVER_FINANCE\\SERVER_FINANCE.csproj",
         "packagesPath": "C:\\Users\\ASAD\\.nuget\\packages\\",
-        "outputPath": "f:\\work\\Ralox Finance\\server\\SERVER_FINANCE\\obj\\",
+        "outputPath": "F:\\work\\Ralox Finance\\server\\SERVER_FINANCE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-preview.2.24128.4, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[9.0.0-preview.2.24128.4, )"
@@ -52,6 +58,10 @@
             "MinimalApis.Extensions": {
               "target": "Package",
               "version": "[0.11.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [

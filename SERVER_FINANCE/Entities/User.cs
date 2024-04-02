@@ -1,4 +1,4 @@
-namespace FinanceServer.API.Entities;
+namespace FinanceServer.Api.Entities;
 
 public class Users
 {
